@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-<b> Author- Suhail Khan </b>
+<b> <i> <u> Author- Suhail Khan </u> </i> </b>
